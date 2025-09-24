@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.gordao.e1.controllers.MainController">
+
+  <top>
+    <ToolBar>
+      <Label text="Entidade:"/>
+      <ComboBox fx:id="entityPicker" prefWidth="240"/>
+      <Button fx:id="btnSave" text="Salvar" onAction="#onSave"/>
+      <Separator orientation="VERTICAL"/>
+      <Label text="Arquivo:"/>
+      <Label fx:id="lblFile"/>
+    </ToolBar>
+  </top>
+
+  <center>
+    <ScrollPane fitToWidth="true">
+      <content>
+        <VBox fx:id="formBox" spacing="8">
+          <padding>
+            <Insets top="10" right="10" bottom="10" left="10"/>
+          </padding>
+        </VBox>
+      </content>
+    </ScrollPane>
+  </center>
+
+  <bottom>
+    <Label text="Preencha os campos e clique em Salvar para instanciar e gravar no CSV.">
+      <padding>
+        <Insets top="10" right="10" bottom="10" left="10"/>
+      </padding>
+    </Label>
+  </bottom>
+</BorderPane>
