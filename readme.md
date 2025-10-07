@@ -15,7 +15,7 @@ São exemplos de cenários:
      b) a aluna foi bem em todas as avaliações
 
 2. Música. Escolha uma música de sua preferência. A partir dela, elabore 3 classes, sendo que cada uma deve ter 3 atributos e 1 método. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve aparecer na letra da música.
-
+<img src="https://github.com/MrMatheTrue/Linguagem-Programa-o---Adriana/blob/main/imgg/musica%20wifi.png">
 
 3. Imagem. Consulte o link https://www.culturagenial.com/vik-muniz-obras/. Selecione duas criações do artista Vik Muniz e para cada uma, elabore 3 classes, sendo que cada uma deve ter 3 atributos e 1 método. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve ser visualizado na obra.
 
