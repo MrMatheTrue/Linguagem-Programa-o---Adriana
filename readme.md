@@ -18,16 +18,10 @@ São exemplos de cenários:
 <img src="https://github.com/MrMatheTrue/Linguagem-Programa-o---Adriana/blob/main/imgg/musica%20wifi.png">
 
 3. Imagem. Consulte o link https://www.culturagenial.com/vik-muniz-obras/. Selecione duas criações do artista Vik Muniz e para cada uma, elabore 3 classes, sendo que cada uma deve ter 3 atributos e 1 método. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve ser visualizado na obra.
+  <img src="https://github.com/MrMatheTrue/Linguagem-Programa-o---Adriana/blob/main/imgg/retrato%20vikmuniz%20monalisa.png">
 
-4. Imagem. Selecione uma imagem Doodle de sua preferência (Sugestão: https://www.mauromartins.com/). elabore 3 classes, sendo que cada uma deve ter 3 atributos e 3 métodos. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve ser visualizado na imagem.
- 
+5. Imagem. Selecione uma imagem Doodle de sua preferência (Sugestão: https://www.mauromartins.com/). elabore 3 classes, sendo que cada uma deve ter 3 atributos e 3 métodos. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve ser visualizado na imagem.
+ <img src="https://github.com/MrMatheTrue/Linguagem-Programa-o---Adriana/blob/main/imgg/doodle%20mauro%20martins.png">
 
-5. Vídeo. Selecione um vídeo de sua preferência. A partir dele,  elabore  3 classes, sendo que cada uma deve ter 3 atributos e 3 métodos. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve ser visualizado no vídeo
-
- 6. Poste em seu Github o material gerado e o material consultado.
-
-7. Classe Java. Usando Linguagem Java, codifique uma classe que lê as entradas via teclado e forneça o cálculo da média, conforme o item 1.
-
-8. Classe Java. Usando Linguagem Java, codifique todas as classes geradas nos itens 2 a 5. 
-
-9. Poste em seu Github o material gerado
+6. Vídeo. Selecione um vídeo de sua preferência. A partir dele,  elabore  3 classes, sendo que cada uma deve ter 3 atributos e 3 métodos. Modele cada classe utilizando diagrama UML (Sugestão: Lucidchart). Importante: Um objeto representante de cada classe deve ser visualizado no vídeo
+https://www.youtube.com/watch?v=-rLt89HZ6DQ
